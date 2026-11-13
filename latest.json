@@ -1,8 +1,8 @@
 {
-  "version": "2.5.0",
-  "url": "https://raw.githubusercontent.com/Scripterkaa/eldorado-sales/main/releases/EldoradoSales-2.5.0.zip",
-  "sha256": "0641b6f90210c037642985a8609c2cbb754193e3d5ea655961ce4875e6feebd0",
-  "size": 95076,
+  "version": "2.5.1",
+  "url": "https://raw.githubusercontent.com/Scripterkaa/eldorado-sales/main/releases/EldoradoSales-2.5.1.zip",
+  "sha256": "9d96c050328a709f576a691466a8263c960fb49877b4ba1faf75181e37e425d3",
+  "size": 95402,
   "date": "2026-11-13",
-  "notes": "v2.5.0\n- สต็อก: เหลือกี่ชิ้น ขายวันละเท่าไหร่ พอขายได้อีกกี่วัน + แจ้งเตือนเมื่อใกล้หมด\n- แชทใหม่: ลูกค้าที่ทักเรื่องออเดอร์ที่ยังไม่ได้อ่าน พร้อมปุ่มเปิดแชทบน Eldorado + แจ้ง Discord\n- โน้ต/แท็กลูกค้า (VIP / ระวัง / มีปัญหา) + เตือนเมื่อคนที่มีปัญหากลับมาซื้อ"
+  "notes": "v2.5.1\n- เช็กอัปเดตเจอเวอร์ชันใหม่ทันที (ไม่ต้องรอ cache ของ GitHub)\n- รวมทุกอย่างจาก v2.5.0: สต็อก + วันที่พอขาย, แชทใหม่ที่ยังไม่อ่าน, โน้ต/แท็กลูกค้า"
 }
