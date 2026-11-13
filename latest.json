@@ -1,8 +1,8 @@
 {
-  "version": "2.4.0",
-  "url": "https://raw.githubusercontent.com/Scripterkaa/eldorado-sales/main/releases/EldoradoSales-2.4.0.zip",
-  "sha256": "e1c8dc1b6ec7adc30a0aa27eadc700799c022a4ee2c83cbd73837d860c50e3e6",
-  "size": 84444,
+  "version": "2.5.0",
+  "url": "https://raw.githubusercontent.com/Scripterkaa/eldorado-sales/main/releases/EldoradoSales-2.5.0.zip",
+  "sha256": "0641b6f90210c037642985a8609c2cbb754193e3d5ea655961ce4875e6feebd0",
+  "size": 95076,
   "date": "2026-11-13",
-  "notes": "เวอร์ชันแรกที่อัปเดตในแอปได้\n- ปุ่มอัปเดตในแอป (ไม่ต้องลงใหม่อีก)\n- ค้นหาลูกค้า (Ctrl+K) + ประวัติการซื้อของแต่ละคน\n- การ์ดลูกค้าประจำ / ลูกค้ากลับมาซื้อซ้ำ\n- เลขออเดอร์ พร้อมปุ่มคัดลอกและเปิดบน Eldorado\n- ธีม ดำ / ขาว / ชมพู"
+  "notes": "v2.5.0\n- สต็อก: เหลือกี่ชิ้น ขายวันละเท่าไหร่ พอขายได้อีกกี่วัน + แจ้งเตือนเมื่อใกล้หมด\n- แชทใหม่: ลูกค้าที่ทักเรื่องออเดอร์ที่ยังไม่ได้อ่าน พร้อมปุ่มเปิดแชทบน Eldorado + แจ้ง Discord\n- โน้ต/แท็กลูกค้า (VIP / ระวัง / มีปัญหา) + เตือนเมื่อคนที่มีปัญหากลับมาซื้อ"
 }
