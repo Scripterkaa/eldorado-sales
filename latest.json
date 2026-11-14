@@ -1,8 +1,8 @@
 {
-  "version": "2.5.1",
-  "url": "https://raw.githubusercontent.com/Scripterkaa/eldorado-sales/main/releases/EldoradoSales-2.5.1.zip",
-  "sha256": "9d96c050328a709f576a691466a8263c960fb49877b4ba1faf75181e37e425d3",
-  "size": 95402,
-  "date": "2026-11-13",
-  "notes": "v2.5.1\n- เช็กอัปเดตเจอเวอร์ชันใหม่ทันที (ไม่ต้องรอ cache ของ GitHub)\n- รวมทุกอย่างจาก v2.5.0: สต็อก + วันที่พอขาย, แชทใหม่ที่ยังไม่อ่าน, โน้ต/แท็กลูกค้า"
+  "version": "2.5.2",
+  "url": "https://raw.githubusercontent.com/Scripterkaa/eldorado-sales/main/releases/EldoradoSales-2.5.2.zip",
+  "sha256": "555f4770959a28e814c0cf98549fb5427cacf36512b56dc4ae99ed77cc5e3048",
+  "size": 96959,
+  "date": "2026-11-14",
+  "notes": "v2.5.2\n- แก้ Failed to fetch เวลาเปิดแอปทิ้งไว้นาน/ย่อหน้าต่าง (แอปไม่ปิดตัวเองอีกแล้ว ปิดเฉพาะตอนปิดหน้าต่างจริง)\n- แก้กดเปิดแอปซ้ำแล้วแอปปิดเอง\n- ถ้าการเชื่อมต่อหลุดจะขึ้นแจ้งและต่อใหม่อัตโนมัติ, กลับมาที่หน้าต่างแล้วอัปเดตข้อมูลทันที\n- แก้ sync ล้มทุก 16 นาที (connection forcibly closed)"
 }
